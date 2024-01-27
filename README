@@ -1,0 +1,4 @@
+
+Receive and runs machine code for hello world through a server
+
+Test with ./run.sh
